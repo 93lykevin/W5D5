@@ -1,0 +1,15 @@
+html, body, h1, h2, header, a, figure{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+}
+
+body {
+  line-height: 1.5;
+}
+
+img {
+  width: 100%;
+
+}
